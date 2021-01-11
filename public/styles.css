@@ -1,0 +1,14 @@
+.heading {
+  color: cyan;
+}
+
+ul {
+  text-align: center;
+  color: beige;
+  background-color: aqua;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+}
